@@ -29,6 +29,6 @@
     "eslint-plugin-vue": "^6.2.2",
     "husky": "^4.0.0",
     "prettier": "^1.19.1",
-    "stylelint": "^10.1.0"
+    "stylelint": "^15.10.1"
   }
 }
